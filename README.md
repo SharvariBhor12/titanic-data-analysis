@@ -8,6 +8,4 @@ This is a basic data analysis project using the Titanic dataset.
 Python, Pandas, Matplotlib, Jupyter Notebook
 
 ## Key insights:
-Survival rate analysis by gender and class
-Data cleaning and visualization
-Correlation between features
+Survival rate analysis by gender and class, data cleaning and visualization, correlation between features
